@@ -1,0 +1,10 @@
+Halo! Terima kasih sudah melapor. Ternyata masalah ini muncul di Google Chrome karena efek dari kebijakan baru terkait Private Network Access.
+
+Solusinya adalah dengan menggunakan browser lain di luar dari Chromium Based, contohnya Firefox.
+
+Atau, bila Anda ingin tetap menggunakan Chrome, Anda bisa mematikan ('disable') kebijakkan "Block insecure private network requests." pada browser chrome Anda melalui tautan berikut:
+
+chrome://flags/#block-insecure-private-network-requests
+Silakan copy paste tautan di atas pada address bar chrome.
+
+Setelah mendisable, silakan restart browser dan coba kembali Notes Apps Client nya ya.
